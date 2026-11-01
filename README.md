@@ -1,6 +1,6 @@
 Latent Boundary Drift in Peaks-over-Threshold Risk Estimation under Stochastic Volatility — replication code
 This repository contains the replication code for:
-> Gwanani, I., L. Dhliwayo, S. Nadarajah, and S. Makurumidze. *Latent Boundary Drift in Peaks-over-Threshold Risk Estimation under Stochastic Volatility*. Manuscript submitted to the *Journal of Risk and Financial Management*.
+> I.Gwanani, L. Dhliwayo, S. Nadarajah, and S. Makurumidze. *Latent Boundary Drift in Peaks-over-Threshold Risk Estimation under Stochastic Volatility*. Manuscript submitted to the *Journal of Risk and Financial Management*.
 The notebook `Latent Drift (1).ipynb` reproduces every table and figure in the paper and appendices in one run. It uses one data snapshot, one GARCH(1,1)-t estimator (Section 4.2), one GPD fitting routine and one seed rule throughout.
 Corresponding author: Isaac Gwanani (gwananii@gmail.com)
 ---
